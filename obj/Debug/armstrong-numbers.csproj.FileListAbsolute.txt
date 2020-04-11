@@ -1,0 +1,9 @@
+C:\Users\ereni\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\armstrong-numbers\armstrong-numbers\bin\Debug\armstrong-numbers.exe.config
+C:\Users\ereni\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\armstrong-numbers\armstrong-numbers\bin\Debug\armstrong-numbers.exe
+C:\Users\ereni\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\armstrong-numbers\armstrong-numbers\bin\Debug\armstrong-numbers.pdb
+C:\Users\ereni\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\armstrong-numbers\armstrong-numbers\obj\Debug\armstrong-numbers.csprojAssemblyReference.cache
+C:\Users\ereni\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\armstrong-numbers\armstrong-numbers\obj\Debug\armstrong_numbers.Form1.resources
+C:\Users\ereni\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\armstrong-numbers\armstrong-numbers\obj\Debug\armstrong_numbers.Properties.Resources.resources
+C:\Users\ereni\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\armstrong-numbers\armstrong-numbers\obj\Debug\armstrong-numbers.csproj.GenerateResource.cache
+C:\Users\ereni\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\armstrong-numbers\armstrong-numbers\obj\Debug\armstrong-numbers.exe
+C:\Users\ereni\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\armstrong-numbers\armstrong-numbers\obj\Debug\armstrong-numbers.pdb
